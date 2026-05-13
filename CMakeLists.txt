@@ -9,7 +9,7 @@ project(MbedCE_BG770AGL_EVAL_KIT_APP
 
 list(APPEND MBED_CONFIG_SOURCE_DIRS
     ${CMAKE_CURRENT_LIST_DIR}/bg770agl
-    ${CMAKE_CURRENT_LIST_DIR}/cellular_test
+    ${CMAKE_CURRENT_LIST_DIR}/cellular-test
 )
 
 include(mbed_project_setup)
