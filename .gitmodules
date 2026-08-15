@@ -1,6 +1,6 @@
 [submodule "mbed-os"]
 	path = mbed-os
-	url = git@github.com:61ca52/mbed-os.git
+	url = git@github.com:mbed-ce/mbed-os.git
 	branch = feature/stm32l4a6-support
 [submodule "cellular-test"]
 	path = cellular-test
